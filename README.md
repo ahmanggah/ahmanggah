@@ -1,4 +1,4 @@
-<h1 align="center">Hello there</h1>
+<h1 align="center">Hello there!</h1>
 
 <!--
 **ahmanggah/ahmanggah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
